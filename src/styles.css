@@ -146,6 +146,7 @@ body{
 .info-block-label span{
   color: var(--white);
   font: 0.8em;
+  color: bisque;
 }
 
 .info-block-value{
@@ -154,6 +155,7 @@ body{
   justify-content: flex-start;
   align-items: center;
   color: var(--white);
+  font-weight: 800;
 }
 .footer
 {
